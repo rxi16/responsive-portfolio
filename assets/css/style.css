@@ -5,7 +5,7 @@ body {
   color: #777;
   /*background: url("../images/concrete_seamless.png");*/
   background: url("http://images.naldzgraphics.net/2012/04/1-dark-aloha.jpg");
-  
+  overflow: none;
 }
 
 * {
@@ -78,7 +78,23 @@ h3 {
   color: #fff;
   text-align: center;
   text-decoration: none;
+  background: url("http://images.naldzgraphics.net/2012/04/1-dark-aloha.jpg"); 
+}
+
+#logo:below {
+  float: left;
+  width: 300px;
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
   background: purple; 
+  z-index: 2;
+  opacity: 0.6;
 }
 
 nav {

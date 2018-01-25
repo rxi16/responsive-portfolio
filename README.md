@@ -1,5 +1,5 @@
 # responsive-portfolio
 
-![responsive-portfolio-about](responsive-portfolio-about.png)
+![responsive-portfolio-about](images/responsive-portfolio-about.png)
 
-![responsive-portfolio-portfolio](responsive-portfolio-portfolio.png)
+![responsive-portfolio-portfolio](images/responsive-portfolio-portfolio.png)
